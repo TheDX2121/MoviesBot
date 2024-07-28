@@ -703,13 +703,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developer 😄-
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Rishu1286'>Rishu</a>
-
--Dev 2 <a href='https://t.me/ur_rishu_143'>Rishu bots</a>
-
--Dev 3 <a href='https://t.me/Rishuxbot> Botz</a>
-
-- Dev 4 <a href='https://t.me/ur_support07'>TEAM RISHU</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/ExpertCoder'>Saeed Ahmed</a>
 """
 
     RENAME_TXT = """
