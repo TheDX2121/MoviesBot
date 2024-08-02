@@ -285,7 +285,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 • /share - ᴍᴀᴋᴇ ʏᴏᴜʀ ᴛᴇxᴛ ɪɴᴛᴏ sʜᴀʀᴇᴀʙʟᴇ ʟɪɴᴋ.
 • /stickerid - ᴜꜱᴇ ᴛᴏ ꜰɪɴᴅ ᴀɴy  ꜱᴛɪᴄᴋᴇʀꜱ ɪᴅ.
 • /json - ɢᴇᴛ ᴅᴀᴛᴀ ɪɴ ᴊsᴏɴ ᴏғ ᴀɴʏ ʀᴇᴘʟɪᴇᴅ ᴍᴇssᴀɢᴇ.
-• /font - sᴛʏʟɪsʜ ᴛᴇxᴛ ᴍᴀᴋᴇʀ </b><code>/font venom</code><b>.</b>""" 
+• /font - sᴛʏʟɪsʜ ᴛᴇxᴛ ᴍᴀᴋᴇʀ </b><code>/font venom</code><b>.
+• /genpw - ɢᴇɴᴇʀᴀᴛᴇ sᴛʀᴏɴɢ ᴘᴀssᴡᴏʀᴅs </b><code>/genpw 10</code><b>.</b>""" 
   
     CORONA_TXT = """<b>ʜᴇʟᴩ: ᴄᴏᴠɪᴅ 
   
