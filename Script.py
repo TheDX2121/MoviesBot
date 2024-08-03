@@ -196,7 +196,13 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size}
+
+Team Dx ✨ 
+〰️〰️〰️〰️〰️〰️〰️〰️〰️
+✨Need Help : @DxSupport_bot
+
+✨All Branches : @BackUP_Panda</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -213,8 +219,7 @@ IMDb Data:
 🎛 Countries : <code>{countries}</code>
 
 
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
-
+⏰Result Shown in: {remaining_seconds} <i>seconds</i> ✨
 Requested by : {message.from_user.mention}</b>"""
     
     ALL_FILTERS = """
