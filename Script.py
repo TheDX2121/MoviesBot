@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b><blockquote>⍟───[ Mʏ Dᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
     
 ‣ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/BackupRedirect'>ᴇxᴘᴇʀᴛ ᴄᴏᴅᴇʀ</a> 
+‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Cyb3r_Panda'>𝚂𝚊𝚖𝚞𝚎𝚕~</a> 
 ‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -196,9 +196,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}
-
-Team Dx ✨ 
+<b> Size ⚙️: {file_size} Team Dx ✨ 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 ✨Need Help : @DxSupport_bot
 
@@ -219,7 +217,8 @@ IMDb Data:
 🎛 Countries : <code>{countries}</code>
 
 
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> ✨
+⏰Result Shown in: {remaining_seconds} <i>seconds</i> ✨
+
 Requested by : {message.from_user.mention}</b>"""
     
     ALL_FILTERS = """
@@ -428,7 +427,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  
     RESTART_TXT = """
-<b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+<b>@Sparkle_Autobot Rᴇsᴛᴀʀᴛᴇᴅ !
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
@@ -442,7 +441,7 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 Special Thanks To ❤️ Developer 😄-
 
--Dev [Owner Of This Bot ]<a href='https://t.me/ExpertCoder'>Saeed Ahmed</a>
+-Dev [Owner Of This Bot ]<a href='https://t.me/Cyb3r_Panda'>𝚂𝚊𝚖𝚞𝚎𝚕~</a>
 """
 
     RENAME_TXT = """
