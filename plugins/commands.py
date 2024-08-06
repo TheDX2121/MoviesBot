@@ -26,7 +26,7 @@ async def start(client, message):
             InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
             InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackupRedirect')
+            InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup, disable_web_page_preview=True)
@@ -45,7 +45,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackupRedirect')
+                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
             ],[
                 InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                 InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -55,7 +55,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackupRedirect')
+                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
             ],[
                 InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                 InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -121,7 +121,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackupRedirect')
+                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
             ],[
                 InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                 InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -131,7 +131,7 @@ async def start(client, message):
                 InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackupRedirect')
+                InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
             ],[
                 InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                 InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -170,7 +170,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackupRedirect')
+                    InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
                 ],[
                     InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                     InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
@@ -180,7 +180,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ ➕"', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('Sᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackupRedirect')
+                    InlineKeyboardButton('Cʜᴀɴɴᴇʟ 🔈', url='https://t.me/BackUP_Panda')
                 ],[
                     InlineKeyboardButton('Hᴇʟᴩ 🕸️', callback_data='help'),
                     InlineKeyboardButton('Aʙᴏᴜᴛ ✨', callback_data='about')
