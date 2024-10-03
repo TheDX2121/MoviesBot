@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/d49ad47e5f6e8d1e90a5e.jpg" alt="Rɪᴛsᴀᴍ✨ Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  Rɪᴛsᴀᴍ✨
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Rɪᴛsᴀᴍ✨+Bot!)
