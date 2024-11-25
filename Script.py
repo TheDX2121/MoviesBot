@@ -194,7 +194,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ:- {file_name} 「Team Dx✨」
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ:- @BackUP_Panda {file_name} 「Team Dx✨」
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 ✨Need Help :「@DxSupport_bot」
 
