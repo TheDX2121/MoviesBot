@@ -214,12 +214,12 @@ IMDb Data:
 ☀️ Languages : <code>{languages}</code>
 📀 RunTime: {runtime} Minutes
 📆 Release Info : {release_date}
-🎛 Countries : <code>{countries}</code>
-
-
+🎛 Countries : <code>{countries}</code>
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> ✨
 
-Requested by : {message.from_user.mention}</b>"""
+Requested by 😊: {message.from_user.mention}
+
+<blockquote>𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 ➥ <a href = 'http://t.me/BackUP_Panda' >「Team Dx✨」</a></blockquote></b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
