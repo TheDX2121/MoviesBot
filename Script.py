@@ -194,13 +194,13 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-
-<b> Size ⚙️: {file_size} Team Dx ✨ 
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ:- {file_name} 「Team Dx✨」
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
-✨Need Help : @DxSupport_bot
+✨Need Help :「@DxSupport_bot」
 
-✨All Branches : @BackUP_Panda</b>""" 
+✨All Branches :「@BackUP_Panda」</b>
+<b><pre>𝙵𝚒𝚕𝚎 𝚂𝚒𝚣𝚎 ♻️ ➥ {file_size}</pre></b>
+<b><blockquote>𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 ➥ <a href = 'http://t.me/BackUP_Panda' >「Team Dx✨」</a></blockquote></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
