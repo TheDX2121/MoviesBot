@@ -129,11 +129,13 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
-Aᴅᴅᴇᴅ Bʏ - {}"""
+Aᴅᴅᴇᴅ Bʏ - {}
+ᥴꪶⅈᥴ𝕜 ꪑꫀ = {message.from_user.mention}"""
 
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
-Nᴀᴍᴇ - {}"""
+Nᴀᴍᴇ - {}
+ᥴꪶⅈᥴ𝕜 ꪑꫀ = {message.from_user.mention}"""
 
     ALRT_TXT = """ʜᴇʟʟᴏ {},
 ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ,
