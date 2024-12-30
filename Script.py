@@ -194,13 +194,13 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ:- {file_name} 「Team Dx✨」
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ:- {file_name} 「Rɪᴛsᴀᴍ✨」
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
-✨Need Help :「@DxSupport_bot」
+✨Need Help :「@RitsamSupport_bot」
 
-✨All Branches :「@BackUP_Panda」</b>
+✨All Branches :「@RitsamHub」</b>
 <b><pre>𝙵𝚒𝚕𝚎 𝚂𝚒𝚣𝚎 ♻️ ➥ {file_size}</pre></b>
-<b><blockquote>𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 ➥ <a href = 'http://t.me/BackUP_Panda' >「Team Dx✨」</a></blockquote></b>""" 
+<b><blockquote>𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 ➥ <a href = 'http://t.me/RitsamHub' >「Rɪᴛsᴀᴍ✨」</a></blockquote></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -219,7 +219,7 @@ IMDb Data:
 
 Requested by 😊: {message.from_user.mention}
 
-<blockquote>𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 ➥ <a href = 'http://t.me/BackUP_Panda' >「Team Dx✨」</a></blockquote></b>"""
+<blockquote>𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 ➥ <a href = 'http://t.me/RitsamHub' >「Rɪᴛsᴀᴍ✨」</a></blockquote></b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -432,7 +432,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v0.0.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """
 
